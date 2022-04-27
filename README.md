@@ -42,5 +42,6 @@
     </a>
 </p>
 
+[![Generate Snake](https://github.com/nurgulsezgin/NurgulSezgin/actions/workflows/snake.yml/badge.svg)](https://github.com/nurgulsezgin/NurgulSezgin/actions/workflows/snake.yml)
 
 
