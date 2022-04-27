@@ -37,8 +37,8 @@
 
 <p >
     <a href="https://github.com/nurgulsezgin" target="_blank">
-        <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=nurgulsezgin&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true&show_owner=true" />
-        <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurgulsezgin&layout=compact&theme=vision-friendly-dark"/>
+        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=nurgulsezgin&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true&show_owner=true" />
+        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurgulsezgin&layout=compact&theme=vision-friendly-dark"/>
     </a>
 </p>
 
