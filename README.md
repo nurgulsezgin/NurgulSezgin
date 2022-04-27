@@ -42,6 +42,6 @@
     </a>
 </p>
 
-[![Generate Snake](https://github.com/nurgulsezgin/NurgulSezgin/actions/workflows/snake.yml/badge.svg)](https://github.com/nurgulsezgin/NurgulSezgin/actions/workflows/snake.yml)
+[![Generate Snake](https://github.com/nurgulsezgin/NurgulSezgin/blob/03bd9bb891f521b06dedd8836f7c400ecc4a5164/github-contribution-grid-snake.gif)
 
 
