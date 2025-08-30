@@ -20,8 +20,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
-![Python](https://img.shields.io/badge/-Python-E3CF57?style=flat&logo=python)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-77aaff?style=flat&logo=flutter)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-FC1501?style=flat&logo=angular)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ## 💻 &nbsp;Tools
